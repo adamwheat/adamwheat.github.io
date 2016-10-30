@@ -10,5 +10,4 @@ $(window).scroll(function() {
   mn.removeClass(mns);
  }
 });
-alert("working");
 });
