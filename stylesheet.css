@@ -23,12 +23,14 @@ header {
   z-index: 150;
   box-shadow: 0 2px 3px rgba(0,0,0, .4);
   margin-bottom: -80px;
+  text-align: center;
 }
 .main-nav-scrolled,
 header {
   position: fixed;
   top: 0;
   width: 100%;
+  text-align: center;
 }
 .main {
  background: white;
