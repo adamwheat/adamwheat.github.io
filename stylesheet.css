@@ -48,8 +48,8 @@ li {
   line-height: 75px;
   font-size: 20px;
 }
-
 .title {
+  padding-top: 80px;
   text-align: center;
   font-size: 25px;
 }
@@ -64,6 +64,7 @@ li {
 .text {
   margin-right: 40px;
   margin-left: 40px;
+  overflow: auto;
 }
 .front {
   text-align: center;
@@ -74,4 +75,15 @@ li {
 #occupation {
   padding-bottom: 50px;
  font-size: 25px;
+}
+.list {
+ text-decoration: none;
+ color: #4D4847;
+}
+#me {
+ height: 300px;
+ width: auto;
+ float: right;
+ display: block;
+ margin: 30px;
 }
