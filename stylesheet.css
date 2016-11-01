@@ -81,9 +81,23 @@ li {
  color: #4D4847;
 }
 #me {
- height: 300px;
- width: auto;
+ height: auto;
+ width: 50%;
  float: right;
  display: block;
  margin: 30px;
+ border-radius: 15px;
+}
+#social {
+ width: 100%;
+ padding-top: 20px;
+ margin: auto;
+ text-align: center;
+}
+.media {
+ height: 100px;
+ width: 100px;
+ margin-left: 10px;
+ margin-right: 10px;
+ display: inline-block;
 }
